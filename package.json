@@ -1,0 +1,28 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "A tour and adventure navigation api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jephthahdominic/Natours.git"
+  },
+  "keywords": [
+    "natours",
+    "adventure",
+    "tours",
+    "holiday"
+  ],
+  "author": "St-dominic jephthah from Jonas schmedtmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jephthahdominic/Natours/issues"
+  },
+  "homepage": "https://github.com/jephthahdominic/Natours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
